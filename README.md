@@ -1,5 +1,4 @@
 ## 📖 Overview
-[![License: MIT](https://img.shields.io/badge/License-MIT-c8a96e?style=flat-square)](LICENSE)
 [![PCB: Altium Designer](https://img.shields.io/badge/PCB-Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)](.)
 [![MCU: STM32F446](https://img.shields.io/badge/MCU-STM32F446-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](.)
 [![USB: Audio Class 2.0](https://img.shields.io/badge/USB-Audio%20Class%202.0-5C6BC0?style=flat-square)](.)
