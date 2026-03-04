@@ -1,0 +1,5 @@
+Remove Pin=C16-2 From Net=V_BST
+Remove Pin=R14-1 From Net=BTN_UP
+Remove Pin=R15-1 From Net=BTN_DOWN
+Remove Pin=R16-1 From Net=BTN_LEFT
+Remove Pin=R17-1 From Net=BTN_RIGHT

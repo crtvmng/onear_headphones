@@ -1,0 +1,13 @@
+Change Component Comment: Designator=U7 Old Comment=22.5792MHz New Comment=NZ2520SB-22.5792MHZ-RNA3046A
+Change Component Comment: Designator=X1 Old Comment=24.576MHz New Comment=XTM32024576GT00351001
+Change Component Comment: Designator=U8 Old Comment=ES9039Q2M New Comment=ES9039Q2M_1
+Change Component Comment: Designator=L1 Old Comment=Inductor New Comment=IHLP5050FDER6R8M8A
+Change Component Comment: Designator=R1 Old Comment=Resistor New Comment=Res_0603
+Add Pin To Net: Pin=USB1-C1 Old Net=NetUSB1_C1 New Net=GND_C
+Add Pin To Net: Pin=USB1-C6 Old Net=NetUSB1_C6 New Net=GND_C
+Change Pin Designator/Name:  Old Designator=U3-8 Old Name=MODE New Designator =VSS New Name=11
+Change Pin Designator/Name:  Old Designator=U3-9 Old Name=CE New Designator =EP New Name=21
+Change Pin Designator/Name:  Old Designator=U3-11 Old Name=VSS New Designator =MODE New Name=8
+Change Pin Designator/Name:  Old Designator=U3-21 Old Name=EP New Designator =CE New Name=9
+Change Pin Designator/Name:  Old Designator=U12-11 Old Name=NC New Designator =MODE New Name=13
+Change Pin Designator/Name:  Old Designator=U12-13 Old Name=MODE New Designator =NC New Name=11

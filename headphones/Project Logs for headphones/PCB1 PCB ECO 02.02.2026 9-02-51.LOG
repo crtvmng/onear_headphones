@@ -1,0 +1,515 @@
+Change Comment: Unknown Component : X1
+Change component parameters: Designator = "U1" ("U1"); Footprint = "VSON-10_L3.0-W3.0-P0.50-BL-EP1.65"; UniqueID = "\gge1" ("\gge1")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/opa1622"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "OPA1622IDRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "???????????????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "OPA1622IDRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+125?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "VSON-10-EP(3x3)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C2876559"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "OPA1622IDRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Harmonic Distortion + Noise (THD+N)"; Value = "0.000024%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "-18V~-2V;2V~18V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "DFN-10_L3.0-W3.0-P0.50-BL-EP-3"; UniqueID = "\gge2" ("\gge2")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/LT3045IDD%2523PBF/607790.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "LT3045IDD#PBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Short Circuit Protection;Over Current Protection;Reverse Polarity Protection;Over Temperature Protection"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "20V?500mA????????PSRR?????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ADI(???)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "LT3045IDD#PBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Noise"; Value = "0.8uVrms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+125?@(Tj)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "0V~15V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "76dB@(1MHz)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "standby current"; Value = "2.2mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "DFN-10-EP(3x3)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C580013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "LT3045IDD#PBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Dropout"; Value = "350mV@(500mA)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "QFN-20_L4.7-W3.7-P0.50-BL-EP"; UniqueID = "\gge3" ("\gge3")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Battery Temperature Detection"; Value = "Support"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Charge Current - Max"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Charging Saturation Voltage"; Value = "4.2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/bq24070"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "BQ24070RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "?????????????????IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "BQ24070RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Cells"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+125?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "QFN-20-EP(3.7x4.7)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C6514"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current (Iq)"; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "BQ24070RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "The Chip Type"; Value = "Charging IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type of Battery"; Value = "Lithium Battery"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "4.35V~16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL"; UniqueID = "\gge6" ("\gge6")
+Change component parameters (AddParameter): Name = "ADC (Bit)"; Value = "12bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Applications"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Bit Width"; Value = "32bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Core"; Value = "ARM-M4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Maximum Speed"; Value = "180MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DAC (Bit)"; Value = "12bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/STM32F446RET6/70451.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "MSL=3 ?DSP?FPU????????ARM Cortex-M4 MCU,??512 KB Flash?180 MHz CPU?ART?????QSPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ST(?????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of I/O"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program Storage Size"; Value = "512KB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "LQFP-64(10x10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C69336"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "1.7V~3.6V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8" ("U8"); Footprint = "QFN-32_L5.0-W5.0-P0.50-TL-EP3.2"; UniqueID = "\gge9" ("\gge9")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "ES9039Q2M_1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "ES9039Q2M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "ES9039Q2M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "32  QFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C9900181801"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "ES9039Q2M_C9900181801"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U9" ("U9"); Footprint = "SON-8_L3.0-W3.0-P0.50-TL-EP_OPA1612AIDRGR"; UniqueID = "\gge16" ("\gge16")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/opa1612"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "OPA1612AIDRGR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "SoundPlus????????????????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "OPA1612AIDRGR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multi-Part Group"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Power"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "3.6mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Relevance"; Value = "[]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speaker Channels"; Value = "2-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SON-8-EP(3x3)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C2058640"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "OPA1612AIDRGR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Harmonic Distortion + Noise (THD+N)"; Value = "0.000015%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "-18V~-2.25V;2.25V~18V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U10" ("U10"); Footprint = "VSON-10_L3.0-W3.0-P0.50-BL-EP1.65"; UniqueID = "\gge10" ("\gge10")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/opa1622"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "OPA1622IDRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "???????????????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "OPA1622IDRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+125?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "VSON-10-EP(3x3)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C2876559"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "OPA1622IDRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Harmonic Distortion + Noise (THD+N)"; Value = "0.000024%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "-18V~-2V;2V~18V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U11" ("U11"); Footprint = "DFN-10_L3.0-W3.0-P0.50-BL-EP-3"; UniqueID = "\gge13" ("\gge13")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/LT3045IDD%2523PBF/607790.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "LT3045IDD#PBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Short Circuit Protection;Over Current Protection;Reverse Polarity Protection;Over Temperature Protection"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "20V?500mA????????PSRR?????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ADI(???)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "LT3045IDD#PBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Noise"; Value = "0.8uVrms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+125?@(Tj)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "0V~15V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "76dB@(1MHz)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "standby current"; Value = "2.2mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "DFN-10-EP(3x3)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C580013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "LT3045IDD#PBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Dropout"; Value = "350mV@(500mA)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U12" ("U12"); Footprint = "VQFN-20_L4.6-W3.6-P0.50-BL"; UniqueID = "\gge14" ("\gge14")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/tps61088"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "TPS61088RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Function"; Value = "Boost type"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Voltage"; Value = "2.7V~12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "??????????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "TPS61088RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "4.5V~12.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current (Iq)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "VQFN-20-EP(3.6x4.6)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C87357"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch tube (built-in/external)"; Value = "Built-in"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Frequency"; Value = "200kHz~2.2MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "TPS61088RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Synchronous Rectification"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Topology"; Value = "Boost"; VariantName = "[No Variations]"
+Change component parameters: Designator = "USB1" ("USB1"); Footprint = "TYPE-C-SMD_TYPE-C-31-E-10X"; UniqueID = "\WHTHVFCF" ("\WHTHVFCF")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connect-Disconnect Life"; Value = "10,000 cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Type-C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating-Power"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/TYPE-C-31-E-10X/3185959.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detection color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "TYPE-C-31-E-10X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "??? Type-C ? ??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "8.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "TYPE-C-31-E-10X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "6P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Protocol Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C2909194"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "TYPE-C-31-E-10X"; VariantName = "[No Variations]"
+Change component parameters: Component "X1" not found
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Added Component: Designator=D1(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BAT54C%20RF/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BAT54C RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BAT54C%20RF/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FL1(BEADC1608X95N)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=2740601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2740601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2740601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BLM18HE152SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BLM18HE152SN1D/Murata/view-part/2740601/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FL(BEADC1608X95N)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=2740601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2740601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2740601"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BLM18HE152SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BLM18HE152SN1D/Murata/view-part/2740601/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SI5351A-B-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si5351a-b-gt/silicon-labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/Si5351A-B-GT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "Si5351A-B-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "634-SI5351A-B-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/SI5351A-B-GT?qs=p9T7GgSe1IEO%252BMfC%2FKPFfA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(SKQUAAA010)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SKQUAAA010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found NetTie
+Add component: Footprint Not Found SON-8_L3.0-W3.0-P0.50-TL-EP_OPA1612AIDRGR
+Add component: Footprint Not Found BAT-SMD_BH-18650_C9900015078
+Added Component: Designator=U15(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV75533PDBVR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLV75533PDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV75533PDBVR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin -0
+Add Pin To Net: Unknown Pin: Pin -1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-2
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=V_SYS Pin=J1-4
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R19-2
+Added Pin To Net: NetName=GND Pin=U6-12
+Added Pin To Net: NetName=GND Pin=U6-31
+Added Pin To Net: NetName=GND Pin=U6-47
+Added Pin To Net: NetName=GND Pin=U6-63
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Added Pin To Net: NetName=V_SYS Pin=U15-1
+Added Pin To Net: NetName=GND Pin=U15-2
+Added Pin To Net: NetName=BTN_CENTER Pin=D1-2
+Added Pin To Net: NetName=BTN_CENTER Pin=U6-9
+Added Net: Name=BTN_CENTER
+Added Pin To Net: NetName=BTN_DOWN Pin=U6-25
+Added Net: Name=BTN_DOWN
+Added Pin To Net: NetName=BTN_LEFT Pin=U6-10
+Added Net: Name=BTN_LEFT
+Added Pin To Net: NetName=BTN_RIGHT Pin=U6-11
+Added Net: Name=BTN_RIGHT
+Added Pin To Net: NetName=BTN_UP Pin=U6-24
+Added Net: Name=BTN_UP
+Added Pin To Net: NetName=I2C1_SCL_STM32 Pin=IC1-4
+Added Pin To Net: NetName=I2C1_SCL_STM32 Pin=U6-58
+Added Net: Name=I2C1_SCL_STM32
+Added Pin To Net: NetName=I2C1_SDA_STM32 Pin=IC1-5
+Added Pin To Net: NetName=I2C1_SDA_STM32 Pin=U6-59
+Added Net: Name=I2C1_SDA_STM32
+Added Pin To Net: NetName=NetC19_1 Pin=FL-2
+Added Pin To Net: NetName=NetC19_1 Pin=U6-13
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC21_1 Pin=U6-7
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC23_1 Pin=FL1-2
+Added Pin To Net: NetName=NetC23_1 Pin=IC1-1
+Added Pin To Net: NetName=NetC23_1 Pin=IC1-7
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=U15-3
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Net: Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetR19_1 Pin=U6-60
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=PWR_HOLD Pin=D1-1
+Added Pin To Net: NetName=PWR_HOLD Pin=U6-8
+Added Net: Name=PWR_HOLD
+Added Pin To Net: NetName=STM32_VDD Pin=FL-1
+Added Pin To Net: NetName=STM32_VDD Pin=FL1-1
+Added Pin To Net: NetName=STM32_VDD Pin=U6-1
+Added Pin To Net: NetName=STM32_VDD Pin=U6-19
+Added Pin To Net: NetName=STM32_VDD Pin=U6-32
+Added Pin To Net: NetName=STM32_VDD Pin=U6-48
+Added Pin To Net: NetName=STM32_VDD Pin=U6-64
+Added Pin To Net: NetName=STM32_VDD Pin=U15-5
+Added Net: Name=STM32_VDD
+Add Class Member: Failed to add class member : Component C1 10?F
+Add Class Member: Failed to add class member : Component C2 0.1?F
+Add Class Member: Failed to add class member : Component C3 33?F
+Add Class Member: Failed to add class member : Component C4 0.1?F
+Add Class Member: Failed to add class member : Component C5 10?F
+Add Class Member: Failed to add class member : Component C6 0.1?F
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component C9 Capacitor
+Add Class Member: Failed to add class member : Component C10 Capacitor
+Add Class Member: Failed to add class member : Component C11 Capacitor
+Add Class Member: Failed to add class member : Component C12 Capacitor
+Add Class Member: Failed to add class member : Component C13 Capacitor
+Add Class Member: Failed to add class member : Component C14 Capacitor
+Add Class Member: Failed to add class member : Component C15 Capacitor
+Add Class Member: Failed to add class member : Component C16 Capacitor
+Add Class Member: Failed to add class member : Component C17 Capacitor
+Add Class Member: Failed to add class member : Component C18 Capacitor
+Add Class Member: Failed to add class member : Component C19 0.1?F
+Add Class Member: Failed to add class member : Component C20 1?F
+Add Class Member: Failed to add class member : Component C21 0.1?F
+Add Class Member: Failed to add class member : Component C22 10?F
+Add Class Member: Failed to add class member : Component C23 0.1?F
+Add Class Member: Failed to add class member : Component C24 10?F
+Added Member To Class: ClassName=1_P1 Member=Component D1 BAT54C_RF
+Added Member To Class: ClassName=1_P1 Member=Component FL1 BLM18HE152SN1D
+Added Member To Class: ClassName=1_P1 Member=Component FL BLM18HE152SN1D
+Added Member To Class: ClassName=1_P1 Member=Component IC1 Si5351A-B-GT
+Added Member To Class: ClassName=1_P1 Member=Component J1 SKQUAAA010
+Add Class Member: Failed to add class member : Component L1 IHLP5050FDER6R8M8A
+Add Class Member: Failed to add class member : Component R1 Res_0603
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Add Class Member: Failed to add class member : Component R16 Resistor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R18 Resistor
+Add Class Member: Failed to add class member : Component R19 Resistor
+Add Class Member: Failed to add class member : Component R20 Resistor
+Add Class Member: Failed to add class member : Component R21 Resistor
+Add Class Member: Failed to add class member : Component  NetTie
+Added Member To Class: ClassName=1_P1 Member=Component U1 OPA1622IDRCR
+Added Member To Class: ClassName=1_P1 Member=Component U2 LT3045IDD#PBF
+Added Member To Class: ClassName=1_P1 Member=Component U3 BQ24070RHLR
+Added Member To Class: ClassName=1_P1 Member=Component U6 STM32F446RET6
+Added Member To Class: ClassName=1_P1 Member=Component U8 ES9039Q2M_1
+Added Member To Class: ClassName=1_P1 Member=Component U9 OPA1612AIDRGR
+Added Member To Class: ClassName=1_P1 Member=Component U10 OPA1622IDRCR
+Added Member To Class: ClassName=1_P1 Member=Component U11 LT3045IDD#PBF
+Added Member To Class: ClassName=1_P1 Member=Component U12 TPS61088RHLR
+Add Class Member: Failed to add class member : Component U13 OPA1612AIDRGR
+Add Class Member: Failed to add class member : Component U14 BAT_BOX
+Added Member To Class: ClassName=1_P1 Member=Component U15 TLV75533PDBVR
+Added Member To Class: ClassName=1_P1 Member=Component USB1 TYPE-C-31-E-10X
+Add Class Member: Failed to add class member : Component X1 Crystal

@@ -1,0 +1,3 @@
+Remove Pin=C16-2 From Net=V_BST
+Remove Pin=J1-4 From Net=V_SYS
+Remove Pin=U15-1 From Net=V_SYS

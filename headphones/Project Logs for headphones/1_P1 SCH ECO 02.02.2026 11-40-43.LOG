@@ -1,0 +1,7 @@
+Remove Pin=C16-2 From Net=V_BST
+Remove Pin=IC2-15 From Net=I2C1_SCL_STM32
+Remove Pin=IC2-16 From Net=I2C1_SDA_STM32
+Remove Pin=R14-1 From Net=BTN_LEFT
+Remove Pin=R15-1 From Net=BTN_RIGHT
+Remove Pin=R16-1 From Net=BTN_UP
+Remove Pin=R17-1 From Net=BTN_DOWN

@@ -1,0 +1,109 @@
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found NetTie
+Add component: Footprint Not Found SON-8_L3.0-W3.0-P0.50-TL-EP_OPA1612AIDRGR
+Add component: Footprint Not Found BAT-SMD_BH-18650_C9900015078
+Add Pin To Net: Unknown Pin: Pin -0
+Add Pin To Net: Unknown Pin: Pin -1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-2
+Add Class Member: Failed to add class member : Component C1 10?F
+Add Class Member: Failed to add class member : Component C2 0.1?F
+Add Class Member: Failed to add class member : Component C3 33?F
+Add Class Member: Failed to add class member : Component C4 0.1?F
+Add Class Member: Failed to add class member : Component C5 10?F
+Add Class Member: Failed to add class member : Component C6 0.1?F
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component C9 Capacitor
+Add Class Member: Failed to add class member : Component C10 Capacitor
+Add Class Member: Failed to add class member : Component C11 Capacitor
+Add Class Member: Failed to add class member : Component C12 Capacitor
+Add Class Member: Failed to add class member : Component C13 Capacitor
+Add Class Member: Failed to add class member : Component C14 Capacitor
+Add Class Member: Failed to add class member : Component C15 Capacitor
+Add Class Member: Failed to add class member : Component C16 Capacitor
+Add Class Member: Failed to add class member : Component C17 Capacitor
+Add Class Member: Failed to add class member : Component C18 Capacitor
+Add Class Member: Failed to add class member : Component L1 IHLP5050FDER6R8M8A
+Add Class Member: Failed to add class member : Component R1 Res_0603
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component  NetTie
+Add Class Member: Failed to add class member : Component U13 OPA1612AIDRGR
+Add Class Member: Failed to add class member : Component U14 BAT_BOX
