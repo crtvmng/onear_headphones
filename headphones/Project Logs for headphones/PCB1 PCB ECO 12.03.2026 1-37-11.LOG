@@ -1,0 +1,618 @@
+Removed Pin From Net: NetName=NetR13_2 Pin=U3-12
+Removed Pin From Net: NetName=PWR_HOLD Pin=U6-8
+Removed Pin From Net: NetName=BTN_CENTER Pin=U6-9
+Removed Pin From Net: NetName=BTN_LEFT Pin=U6-10
+Removed Pin From Net: NetName=BTN_RIGHT Pin=U6-11
+Removed Pin From Net: NetName=I2C1_SCL_STM32 Pin=U6-58
+Removed Pin From Net: NetName=I2C1_SDA_STM32 Pin=U6-59
+Removed Pin From Net: NetName=GND Pin=U11-1
+Removed Pin From Net: NetName=GND Pin=U11-2
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=NetR9_2 Pin=U11-4
+Removed Pin From Net: NetName=NetR10_2 Pin=U11-5
+Removed Pin From Net: NetName=GND Pin=U11-8
+Removed Pin From Net: NetName=+10V_ANA Pin=U11-9
+Removed Pin From Net: NetName=+10V_ANA Pin=U11-10
+Removed Pin From Net: NetName=GND Pin=U11-11
+Removed Pin From Net: NetName=NetR3_2 Pin=U12-3
+Removed Pin From Net: NetName=GND Pin=U12-12
+Removed Pin From Net: NetName=GND Pin=U12-13
+Removed Pin From Net: NetName=NetR4_2 Pin=U12-17
+Removed Pin From Net: NetName=NetR6_1 Pin=U12-19
+Removed Pin From Net: NetName=GND Pin=U12-20
+Removed Pin From Net: NetName=GND Pin=U12-21
+Removed Pin From Net: NetName=GND Pin=USB1-C1
+Removed Pin From Net: NetName=GND Pin=USB1-C6
+Removed Member From Class: ClassName=1_P1 Member=U11
+Removed Member From Class: ClassName=1_P1 Member=U12
+Removed Member From Class: ClassName=1_P1 Member=U15
+Removed Member From Class: ClassName=1_P1 Member=USB1
+Change Footprint: Footprint Not Found CP-20-8_ADI
+Change Component Footprint: Designator=U1 Old Footprint=VSON-10_L3.0-W3.0-P0.50-BL-EP1.65 New Footprint=IC_OPA1622IDRCR
+Change Component Comment : Designator=U2 Old Comment=LT3045IDD#PBF New Comment=ADP5070ACPZ
+Change Component Designator: OldDesignator=FL1 NewDesignator=FL2
+Change Component Designator: OldDesignator=FL NewDesignator=FL1
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC2
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=U1 NewDesignator=U10
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U6 NewDesignator=U9
+Change Component Designator: OldDesignator=U15 NewDesignator=U8
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOT95P237X112-3N"; UniqueID = "\ZHZRNWJO" ("\ZHZRNWJO")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BAT54C%20RF/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BAT54C RF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BAT54C%20RF/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "FL" ("FL1"); Footprint = "BEADC1608X95N"; UniqueID = "\FDYMKSOL" ("\FDYMKSOL")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=2740601"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2740601"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2740601"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BLM18HE152SN1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BLM18HE152SN1D/Murata/view-part/2740601/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "FL1" ("FL2"); Footprint = "BEADC1608X95N"; UniqueID = "\YMGRZMRA" ("\YMGRZMRA")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=2740601"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2740601"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2740601"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BLM18HE152SN1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BLM18HE152SN1D/Murata/view-part/2740601/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1" ("IC2"); Footprint = "SOP50P490X110-10N"; UniqueID = "\AOTROWPU" ("\AOTROWPU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SI5351A-B-GT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si5351a-b-gt/silicon-labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/Si5351A-B-GT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "Si5351A-B-GT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "634-SI5351A-B-GT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/SI5351A-B-GT?qs=p9T7GgSe1IEO%252BMfC%2FKPFfA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J2"); Footprint = "SKQUAAA010"; UniqueID = "\GRRNQRTW" ("\GRRNQRTW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SKQUAAA010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U10"); Footprint = "VSON-10_L3.0-W3.0-P0.50-BL-EP1.65"; UniqueID = "\VIDQVHMM" ("\VIDQVHMM")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/OPA1622IDRCR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "OPA1622IDRCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "VSON-10 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/OPA1622IDRCR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "DFN-10_L3.0-W3.0-P0.50-BL-EP-3"; UniqueID = "\VEWPVYGY" ("\VEWPVYGY")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADP5070ACPZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Power Management"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U1"); Footprint = "QFN-20_L4.7-W3.7-P0.50-BL-EP"; UniqueID = "\gge3" ("\gge3")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Battery Temperature Detection"; Value = "Support"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Charge Current - Max"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Charging Saturation Voltage"; Value = "4.2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/bq24070"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "BQ24070RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "?????????????????IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "BQ24070RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Cells"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+125?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "QFN-20-EP(3.7x4.7)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C6514"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current (Iq)"; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "BQ24070RHLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "The Chip Type"; Value = "Charging IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type of Battery"; Value = "Lithium Battery"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "4.35V~16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U9"); Footprint = "LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL"; UniqueID = "\gge6" ("\gge6")
+Change component parameters (AddParameter): Name = "ADC (Bit)"; Value = "12bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Applications"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Bit Width"; Value = "32bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Core"; Value = "ARM-M4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Maximum Speed"; Value = "180MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DAC (Bit)"; Value = "12bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/STM32F446RET6/70451.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "MSL=3 ?DSP?FPU????????ARM Cortex-M4 MCU,??512 KB Flash?180 MHz CPU?ART?????QSPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ST(?????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of I/O"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program Storage Size"; Value = "512KB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "LQFP-64(10x10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C69336"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "1.7V~3.6V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U15" ("U8"); Footprint = "SOT95P280X145-5N"; UniqueID = "\NUJCTVEY" ("\NUJCTVEY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV75533PDBVR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TLV75533PDBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23-5 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV75533PDBVR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found NetTie
+Add component: Footprint Not Found NetTie
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Add component: Footprint Not Found CAP-SMD_BD12.5-L13.6-W13.6-LS14.6-FD
+Added Component: Designator=CR1(POWERDI123_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFLS240-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CR2(POWERDI123_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFLS240-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1(QFN40P300X500X80-31N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ESS Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ES9038Q2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "460-ES9038Q2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ESS-Technology/ES9038Q2M?qs=sPbYRqrBIVmdeUedURuuOw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(GCT_USB4110GFA)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4110GFA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SON45P300X300X80-13N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LT3094HDD%23TRPBF/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LT3094HDD#TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DFN -12 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=LT3094HDD#TRPBF&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LT3094HDD%23TRPBF/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found BAT-SMD_BH-18650_C9900015078
+Add component: Footprint Not Found DFN-10_L3.0-W3.0-P0.50-BL-EP-3
+Add component: Footprint Not Found DFN-10_L3.0-W3.0-P0.50-BL-EP-3
+Add component: Footprint Not Found DFN-10_L3.0-W3.0-P0.50-BL-EP-3
+Add Pin To Net: Unknown Pin: Pin 1-0
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 2-0
+Add Pin To Net: Unknown Pin: Pin 2-1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C38-1
+Add Pin To Net: Unknown Pin: Pin C38-2
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Added Pin To Net: NetName=GND Pin=IC1-11
+Added Pin To Net: NetName=GND Pin=IC1-14
+Added Pin To Net: NetName=GND Pin=IC1-22
+Added Pin To Net: NetName=I2C1_SCL_STM32 Pin=IC1-23
+Added Pin To Net: NetName=I2C1_SDA_STM32 Pin=IC1-24
+Added Pin To Net: NetName=GND Pin=IC1-25
+Added Pin To Net: NetName=GND Pin=IC1-30
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=GND Pin=J1-A1/B12
+Added Pin To Net: NetName=GND Pin=J1-B1/A12
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Pin To Net: Unknown Pin: Pin R30-2
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R34-1
+Add Pin To Net: Unknown Pin: Pin R37-1
+Add Pin To Net: Unknown Pin: Pin R39-1
+Add Pin To Net: Unknown Pin: Pin R40-1
+Add Pin To Net: Unknown Pin: Pin R41-1
+Add Pin To Net: Unknown Pin: Pin R43-1
+Add Pin To Net: Unknown Pin: Pin R47-1
+Add Pin To Net: Unknown Pin: Pin R48-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-5
+Added Pin To Net: NetName=NetR4_2 Pin=U2-6
+Added Pin To Net: NetName=NetR13_2 Pin=U2-10
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-19
+Add Pin To Net: Unknown Pin: Pin U2-21
+Added Pin To Net: NetName=GND Pin=U3-9
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-10
+Add Pin To Net: Unknown Pin: Pin U5-11
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-11
+Added Pin To Net: NetName=PWR_HOLD Pin=U9-20
+Added Pin To Net: NetName=BTN_CENTER Pin=U9-21
+Added Pin To Net: NetName=BTN_LEFT Pin=U9-22
+Added Pin To Net: NetName=BTN_RIGHT Pin=U9-23
+Added Pin To Net: NetName=STM32_VDD Pin=U9-49
+Added Pin To Net: NetName=+10V_ANA Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC39_1
+Added Pin To Net: NetName=+3.3V_ANA Pin=IC1-1
+Added Pin To Net: NetName=+3.3V_ANA Pin=IC1-10
+Added Pin To Net: NetName=+3.3V_ANA Pin=IC1-12
+Added Pin To Net: NetName=+3.3V_ANA Pin=IC1-13
+Added Pin To Net: NetName=+3.3V_ANA Pin=IC1-15
+Added Pin To Net: NetName=+3.3V_ANA Pin=IC1-27
+Added Net: Name=+3.3V_ANA
+Added Net: Name=+3.3V_BTMOD
+Added Pin To Net: NetName=-10V_ANA Pin=U3-10
+Added Pin To Net: NetName=-10V_ANA Pin=U3-11
+Added Pin To Net: NetName=-10V_ANA Pin=U3-12
+Added Pin To Net: NetName=-10V_ANA Pin=U10-4
+Added Pin To Net: NetName=-10V_ANA Pin=U10-11
+Added Pin To Net: NetName=-10V_ANA Pin=U10-12
+Added Pin To Net: NetName=-10V_ANA Pin=U10-13
+Added Pin To Net: NetName=-10V_ANA Pin=U10-14
+Added Pin To Net: NetName=-10V_ANA Pin=U10-15
+Added Net: Name=-10V_ANA
+Added Pin To Net: NetName=ADP5070 EN1 Pin=U2-7
+Added Pin To Net: NetName=ADP5070 EN1 Pin=U9-40
+Added Net: Name=ADP5070 EN1
+Added Pin To Net: NetName=ADP5070 EN2 Pin=U2-9
+Added Pin To Net: NetName=ADP5070 EN2 Pin=U9-39
+Added Net: Name=ADP5070 EN2
+Added Pin To Net: NetName=DAC_MCLK Pin=IC1-29
+Added Net: Name=DAC_MCLK
+Added Pin To Net: NetName=DAC_ON/OFF Pin=IC1-21
+Added Pin To Net: NetName=DAC_ON/OFF Pin=U9-10
+Added Net: Name=DAC_ON/OFF
+Added Pin To Net: NetName=DACL_OUT+ Pin=IC1-8
+Added Net: Name=DACL_OUT+
+Added Pin To Net: NetName=DACL_OUT- Pin=IC1-9
+Added Net: Name=DACL_OUT-
+Added Pin To Net: NetName=DACR_OUT+ Pin=IC1-3
+Added Net: Name=DACR_OUT+
+Added Pin To Net: NetName=DACR_OUT- Pin=IC1-2
+Added Net: Name=DACR_OUT-
+Added Pin To Net: NetName=I2S2_CK Pin=IC1-20
+Added Net: Name=I2S2_CK
+Added Pin To Net: NetName=I2S2_SD Pin=IC1-18
+Added Net: Name=I2S2_SD
+Added Pin To Net: NetName=I2S2_WS Pin=IC1-19
+Added Net: Name=I2S2_WS
+Added Net: Name=NetC5_2
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC14_1 Pin=U1-5
+Added Pin To Net: NetName=NetC14_1 Pin=U1-6
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC15_1 Pin=U1-1
+Added Net: Name=NetC15_1
+Added Net: Name=NetC16_2
+Added Net: Name=NetC17_2
+Added Net: Name=NetC18_2
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC22_2 Pin=U3-8
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC23_1 Pin=U2-11
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC25_1 Pin=U10-10
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC25_2 Pin=U10-7
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetC27_1 Pin=U10-6
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC27_2 Pin=U10-9
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC28_1 Pin=U9-7
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC30_1 Pin=FL1-2
+Added Pin To Net: NetName=NetC30_1 Pin=U9-13
+Added Net: Name=NetC30_1
+Added Pin To Net: NetName=NetC36_2 Pin=U10-5
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetC37_2 Pin=U10-1
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetCR1_2 Pin=CR1-2
+Added Net: Name=NetCR1_2
+Added Pin To Net: NetName=NetCR2_1 Pin=CR2-1
+Added Net: Name=NetCR2_1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Net: Name=NetIC2_3
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Net: Name=NetIC2_6
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Net: Name=NetIC2_10
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Net: Name=NetJ1_B5
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetL1_1 Pin=U2-1
+Added Net: Name=NetL1_1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR5_2 Pin=U2-8
+Added Net: Name=NetR5_2
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_2 Pin=U1-12
+Added Net: Name=NetR8_2
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=U1-13
+Added Net: Name=NetR15_2
+Added Net: Name=NetR18_2
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_2 Pin=U3-6
+Added Net: Name=NetR20_2
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR26_2 Pin=U1-14
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR29_1 Pin=U9-60
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR30_1 Pin=U9-59
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR32_1 Pin=U9-58
+Added Net: Name=NetR32_1
+Added Pin To Net: NetName=NetR35_2 Pin=U9-11
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR45_1 Pin=U9-34
+Added Net: Name=NetR45_1
+Added Pin To Net: NetName=NetR46_1 Pin=U9-33
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=OPA1622_EN Pin=IC1-7
+Added Pin To Net: NetName=OPA1622_EN Pin=U10-8
+Added Net: Name=OPA1622_EN
+Added Pin To Net: NetName=OTG_FS_DM Pin=J1-A7
+Added Pin To Net: NetName=OTG_FS_DM Pin=J1-B7
+Added Pin To Net: NetName=OTG_FS_DM Pin=U9-44
+Added Net: Name=OTG_FS_DM
+Added Pin To Net: NetName=OTG_FS_DP Pin=J1-A6
+Added Pin To Net: NetName=OTG_FS_DP Pin=J1-B6
+Added Pin To Net: NetName=OTG_FS_DP Pin=U9-45
+Added Net: Name=OTG_FS_DP
+Added Pin To Net: NetName=STM32_CLK_IN Pin=U9-5
+Added Net: Name=STM32_CLK_IN
+Added Pin To Net: NetName=VBST_NEG Pin=CR2-2
+Added Pin To Net: NetName=VBST_NEG Pin=U3-1
+Added Pin To Net: NetName=VBST_NEG Pin=U3-2
+Added Pin To Net: NetName=VBST_NEG Pin=U3-3
+Added Pin To Net: NetName=VBST_NEG Pin=U3-5
+Added Pin To Net: NetName=VBST_NEG Pin=U3-13
+Added Net: Name=VBST_NEG
+Added Pin To Net: NetName=VBST_POS Pin=CR1-1
+Added Net: Name=VBST_POS
+Added Pin To Net: NetName=VBUS_C Pin=J1-A4/B9
+Added Pin To Net: NetName=VBUS_C Pin=J1-B4/A9
+Added Pin To Net: NetName=VBUS_C Pin=U1-4
+Added Net: Name=VBUS_C
+Add Class Member: Failed to add class member : Component 1 NetTie
+Add Class Member: Failed to add class member : Component 2 NetTie
+Add Class Member: Failed to add class member : Component C1 0.1?F
+Add Class Member: Failed to add class member : Component C2 10?F
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component C9 Capacitor
+Add Class Member: Failed to add class member : Component C10 Capacitor
+Add Class Member: Failed to add class member : Component C11 Capacitor
+Add Class Member: Failed to add class member : Component C12 Capacitor
+Add Class Member: Failed to add class member : Component C13 Capacitor
+Add Class Member: Failed to add class member : Component C14 33?F
+Add Class Member: Failed to add class member : Component C15 0.1?F
+Add Class Member: Failed to add class member : Component C16 Capacitor
+Add Class Member: Failed to add class member : Component C17 Capacitor
+Add Class Member: Failed to add class member : Component C18 Capacitor
+Add Class Member: Failed to add class member : Component C19 Capacitor
+Add Class Member: Failed to add class member : Component C20 Capacitor
+Add Class Member: Failed to add class member : Component C21 Capacitor
+Add Class Member: Failed to add class member : Component C22 Capacitor
+Add Class Member: Failed to add class member : Component C23 Capacitor
+Add Class Member: Failed to add class member : Component C24 Capacitor
+Add Class Member: Failed to add class member : Component C25 Capacitor
+Add Class Member: Failed to add class member : Component C26 Capacitor
+Add Class Member: Failed to add class member : Component C27 Capacitor
+Add Class Member: Failed to add class member : Component C28 0.1?F
+Add Class Member: Failed to add class member : Component C29 Capacitor
+Add Class Member: Failed to add class member : Component C30 1?F
+Add Class Member: Failed to add class member : Component C31 0.1?F
+Add Class Member: Failed to add class member : Component C32 Capacitor
+Add Class Member: Failed to add class member : Component C33 Capacitor
+Add Class Member: Failed to add class member : Component C34 Capacitor
+Add Class Member: Failed to add class member : Component C35 Capacitor
+Add Class Member: Failed to add class member : Component C36 Capacitor
+Add Class Member: Failed to add class member : Component C37 Capacitor
+Add Class Member: Failed to add class member : Component C38 10?F
+Add Class Member: Failed to add class member : Component C39 0.1?F
+Add Class Member: Failed to add class member : Component C40 10?F
+Added Member To Class: ClassName=1_P1 Member=Component CR1 DFLS240-7
+Added Member To Class: ClassName=1_P1 Member=Component CR2 DFLS240-7
+Added Member To Class: ClassName=1_P1 Member=Component IC2 Si5351A-B-GT
+Added Member To Class: ClassName=1_P1 Member=Component J2 SKQUAAA010
+Add Class Member: Failed to add class member : Component L1 Inductor
+Add Class Member: Failed to add class member : Component L2 Inductor
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Add Class Member: Failed to add class member : Component R16 Resistor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R18 Resistor
+Add Class Member: Failed to add class member : Component R19 Resistor
+Add Class Member: Failed to add class member : Component R20 Resistor
+Add Class Member: Failed to add class member : Component R21 Resistor
+Add Class Member: Failed to add class member : Component R22 Resistor
+Add Class Member: Failed to add class member : Component R23 Resistor
+Add Class Member: Failed to add class member : Component R24 Resistor
+Add Class Member: Failed to add class member : Component R25 Resistor
+Add Class Member: Failed to add class member : Component R26 Res_0603
+Add Class Member: Failed to add class member : Component R27 Resistor
+Add Class Member: Failed to add class member : Component R28 Resistor
+Add Class Member: Failed to add class member : Component R29 Resistor
+Add Class Member: Failed to add class member : Component R30 Resistor
+Add Class Member: Failed to add class member : Component R31 Resistor
+Add Class Member: Failed to add class member : Component R32 Resistor
+Add Class Member: Failed to add class member : Component R33 Resistor
+Add Class Member: Failed to add class member : Component R34 Resistor
+Add Class Member: Failed to add class member : Component R35 Resistor
+Add Class Member: Failed to add class member : Component R36 Resistor
+Add Class Member: Failed to add class member : Component R37 Resistor
+Add Class Member: Failed to add class member : Component R38 Resistor
+Add Class Member: Failed to add class member : Component R39 Resistor
+Add Class Member: Failed to add class member : Component R40 Resistor
+Add Class Member: Failed to add class member : Component R41 Resistor
+Add Class Member: Failed to add class member : Component R42 Resistor
+Add Class Member: Failed to add class member : Component R43 Resistor
+Add Class Member: Failed to add class member : Component R44 Resistor
+Add Class Member: Failed to add class member : Component R45 Resistor
+Add Class Member: Failed to add class member : Component R46 Resistor
+Add Class Member: Failed to add class member : Component R47 Resistor
+Add Class Member: Failed to add class member : Component R48 Resistor
+Add Class Member: Failed to add class member : Component R49 Resistor
+Add Class Member: Failed to add class member : Component R50 Resistor
+Add Class Member: Failed to add class member : Component R51 Resistor
+Add Class Member: Failed to add class member : Component R52 Resistor
+Add Class Member: Failed to add class member : Component U4 BAT_BOX
+Add Class Member: Failed to add class member : Component U5 LT3045IDD#PBF
+Add Class Member: Failed to add class member : Component U7 LT3045IDD#PBF
+Add Class Member: Failed to add class member : Component X1 Crystal

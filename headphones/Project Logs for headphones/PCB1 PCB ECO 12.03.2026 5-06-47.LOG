@@ -1,0 +1,131 @@
+Change Component Footprint: Designator=U9 Old Footprint=QFN50P400X400X100-21N New Footprint=FP-LQFP64-5W-MFG
+Change Component Comment : Designator=U9 Old Comment=Comment New Comment=STM32F446RET6
+Change component parameters: Designator = "U9" ("U9"); Footprint = "QFN50P400X400X100-21N"; UniqueID = "\gge6" ("\gge6")
+Change component parameters (AddParameter): Name = "ADC (Bit)"; Value = "12bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Applications"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Bit Width"; Value = "32bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Core"; Value = "ARM-M4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CPU Maximum Speed"; Value = "180MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DAC (Bit)"; Value = "12bit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/STM32F446RET6/70451.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "MSL=3 ?DSP?FPU????????ARM Cortex-M4 MCU,??512 KB Flash?180 MHz CPU?ART?????QSPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ST(?????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of I/O"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Program Storage Size"; Value = "512KB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "LQFP-64(10x10)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C69336"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "STM32F446RET6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Supply"; Value = "1.7V~3.6V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found BAT-SMD_BH-18650_C9900015078
+Add Pin To Net: Unknown Pin: Pin 1-0
+Add Pin To Net: Unknown Pin: Pin 2-0
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R23-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R31-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R36-1
+Add Pin To Net: Unknown Pin: Pin R36-2
+Add Pin To Net: Unknown Pin: Pin R38-1
+Add Pin To Net: Unknown Pin: Pin R38-2
+Add Pin To Net: Unknown Pin: Pin R42-1
+Add Pin To Net: Unknown Pin: Pin R42-2
+Add Pin To Net: Unknown Pin: Pin R44-1
+Add Pin To Net: Unknown Pin: Pin R44-2
+Add Pin To Net: Unknown Pin: Pin R47-1
+Add Pin To Net: Unknown Pin: Pin R47-2
+Add Pin To Net: Unknown Pin: Pin R48-1
+Add Pin To Net: Unknown Pin: Pin R48-2
+Add Pin To Net: Unknown Pin: Pin R51-1
+Add Pin To Net: Unknown Pin: Pin R51-2
+Add Pin To Net: Unknown Pin: Pin R52-1
+Add Pin To Net: Unknown Pin: Pin R52-2
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Added Pin To Net: NetName=STM32_VDD Pin=U9-1
+Added Pin To Net: NetName=STM32_CLK_IN Pin=U9-5
+Added Pin To Net: NetName=NetC28_1 Pin=U9-7
+Added Pin To Net: NetName=DAC_ON/OFF Pin=U9-10
+Added Pin To Net: NetName=NetR35_2 Pin=U9-11
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=NetC30_1 Pin=U9-13
+Added Pin To Net: NetName=STM32_VDD Pin=U9-19
+Added Pin To Net: NetName=PWR_HOLD Pin=U9-20
+Added Pin To Net: NetName=BTN_CENTER Pin=U9-21
+Added Pin To Net: NetName=BTN_LEFT Pin=U9-22
+Added Pin To Net: NetName=BTN_RIGHT Pin=U9-23
+Added Pin To Net: NetName=BTN_UP Pin=U9-24
+Added Pin To Net: NetName=BTN_DOWN Pin=U9-25
+Added Pin To Net: NetName=GND Pin=U9-31
+Added Pin To Net: NetName=STM32_VDD Pin=U9-32
+Added Pin To Net: NetName=NetR46_1 Pin=U9-33
+Added Pin To Net: NetName=NetR45_1 Pin=U9-34
+Added Pin To Net: NetName=ADP5070 EN2 Pin=U9-39
+Added Pin To Net: NetName=ADP5070 EN1 Pin=U9-40
+Added Pin To Net: NetName=OTG_FS_DM Pin=U9-44
+Added Pin To Net: NetName=OTG_FS_DP Pin=U9-45
+Added Pin To Net: NetName=GND Pin=U9-47
+Added Pin To Net: NetName=STM32_VDD Pin=U9-48
+Added Pin To Net: NetName=STM32_VDD Pin=U9-49
+Added Pin To Net: NetName=NetR32_1 Pin=U9-58
+Added Pin To Net: NetName=NetR30_1 Pin=U9-59
+Added Pin To Net: NetName=NetR29_1 Pin=U9-60
+Added Pin To Net: NetName=GND Pin=U9-63
+Added Pin To Net: NetName=STM32_VDD Pin=U9-64
+Add Class Member: Failed to add class member : Component C14 33?F
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R21 Resistor
+Add Class Member: Failed to add class member : Component R22 Resistor
+Add Class Member: Failed to add class member : Component R23 Resistor
+Add Class Member: Failed to add class member : Component R27 Resistor
+Add Class Member: Failed to add class member : Component R31 Resistor
+Add Class Member: Failed to add class member : Component R36 Resistor
+Add Class Member: Failed to add class member : Component R38 Resistor
+Add Class Member: Failed to add class member : Component R42 Resistor
+Add Class Member: Failed to add class member : Component R44 Resistor
+Add Class Member: Failed to add class member : Component R47 Resistor
+Add Class Member: Failed to add class member : Component R48 Resistor
+Add Class Member: Failed to add class member : Component R51 Resistor
+Add Class Member: Failed to add class member : Component R52 Resistor
+Add Class Member: Failed to add class member : Component U4 BAT_BOX
+Added Member To Class: ClassName=1_P1 Member=Component U9 STM32F446RET6
