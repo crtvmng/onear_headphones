@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERA2AEB7680X
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2021-09-05 19:00:22
+Downloaded=2026-03-12 02:28:01
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERA-2AEB7322X
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2021-09-05 19:00:21
+Downloaded=2026-03-12 02:19:06
+3D=Y
