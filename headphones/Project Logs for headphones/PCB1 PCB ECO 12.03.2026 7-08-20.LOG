@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=R8-1
+Change Component Footprint: Designator=R52 Old Footprint=FP-ERA6A-MFG New Footprint=FP-ERA6A-MFG
+Added Component: Designator=J3(FP-S3B-PH-K-S_LF_SN-MFG)
+Add component (AddParameter): Name = "Height"; Value = "0.31inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.31inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.0625lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.31inch"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC3216X70X50NL20T25)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC3216X70X50NL20T25)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin 1-0
+Add Pin To Net: Unknown Pin: Pin 2-0
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetC14_1 Pin=J3-3
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetC23_1 Pin=R21-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R8-1
+Added Net: Name=NetJ3_2
+Added Member To Class: ClassName=1_P1 Member=Component J3 S3B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=1_P1 Member=Component R3 Resistor
+Added Member To Class: ClassName=1_P1 Member=Component R21 Resistor
